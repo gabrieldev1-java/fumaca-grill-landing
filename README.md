@@ -14,16 +14,15 @@ Landing page estática, responsiva e interativa para **Fumaça Grill — Parrill
 - Layout mobile-first, microinterações e animações de entrada.
 - Sem backend, banco de dados ou dependências de servidor.
 
-## Conteúdo que deliberadamente não foi inventado
+## Conteúdo 
 
 ### Cardápio
-Não foi localizado, em uma fonte pública indexável confiável, o cardápio item a item da unidade de Olinda. Por isso a página leva o visitante ao Instagram oficial em vez de publicar produtos ou preços de outra empresa com nome semelhante.
 
 ### Comentários do Google
 O perfil público consultado mostra **5,0/5 em 6 avaliações**, mas os textos individuais não ficaram disponíveis de forma verificável na indexação consultada. A página exibe a nota/quantidade e leva ao perfil para leitura dos comentários reais.
 
 ### Fotos do estabelecimento
-As buscas públicas não forneceram um acervo de fotos reutilizável com segurança. A seção de fotos leva ao Instagram oficial, evitando usar imagens genéricas como se fossem da Fumaça Grill.
+
 
 ## Estrutura
 
@@ -37,12 +36,6 @@ fumaca-grill-landing-v2/
     ├── favicon.svg
     └── og-image.jpg
 ```
-
-## Como editar
-
-A maior parte dos links e ações está concentrada no `index.html` e `script.js`.
-
-Quando o cliente entregar as fotos e o cardápio oficial, substitua os blocos da seção de cardápio e da galeria por dados reais. O restante da estrutura não precisa mudar.
 
 ## Fontes públicas consultadas
 
